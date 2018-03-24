@@ -1,4 +1,4 @@
-package com.amazonaws.samples;
+package com.amazonaws.worker;
 
 import com.amazonaws.services.s3.model.Bucket;
 import com.amazonaws.services.sqs.model.Message;

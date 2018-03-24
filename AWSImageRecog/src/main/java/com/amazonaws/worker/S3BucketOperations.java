@@ -1,4 +1,4 @@
-package com.amazonaws.samples;
+package com.amazonaws.worker;
 
 import java.nio.file.Paths;
 import java.util.List;
